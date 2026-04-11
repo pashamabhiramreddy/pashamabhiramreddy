@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm PASHAM ABHIRAM REDDY!
 
 🎓 Computer Science Engineering Student  
 💻 Passionate about Web Development & Data Structures  
@@ -51,7 +51,7 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourmail@gmail.com  
+- 📧 Email: abhiramreddypasham2005@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile  
 - 🐙 GitHub: https://github.com/yourusername  
 
