@@ -1,60 +1,74 @@
-# 👋 Hi, I'm PASHAM ABHIRAM REDDY!
+# Hi there 👋, I'm Pasham Abhiram Reddy
 
-🎓 Computer Science Engineering Student  
-💻 Passionate about Web Development & Data Structures  
-🚀 Building projects to solve real-world problems  
+### Computer Science Engineering Student | Software Developer
 
----
-
-## 🌐 Portfolio
-🔗 https://yourusername.github.io/portfolio/
+I'm a CSE student passionate about building software, solving problems, and continuously learning new technologies. My interests include Web Development, Data Structures & Algorithms, Python, and Machine Learning.
 
 ---
 
-## 🧠 Skills
-- 💻 Languages: Java, Python, JavaScript  
-- 🌐 Web: HTML, CSS, JavaScript  
-- 🛢️ Database: SQL  
-- ⚙️ Tools: Git, GitHub, VS Code  
+## 🚀 About Me
+
+* 🎓 B.Tech in Computer Science Engineering
+* 💻 Strong interest in Software Development
+* 🌱 Currently learning Python and Machine Learning
+* 🧠 Practicing Data Structures & Algorithms
+* 🚀 Building real-world projects to improve my skills
+* 📫 Email: [abhiramreddypasham2005@gmail.com](mailto:abhiramreddypasham2005@gmail.com)
 
 ---
 
-## 🚀 Projects
+## 💻 Tech Stack
 
-### 📌 Student Management System
-- Manage student records using a web interface  
-- Built with HTML, CSS, JavaScript  
-🔗 https://github.com/yourusername/project1  
+**Languages**
 
----
+Java • Python • JavaScript • SQL
 
-### 📌 Quiz Game
-- Interactive quiz with multiple topics  
-- Score tracking and navigation  
-🔗 https://github.com/yourusername/project2  
+**Frontend**
 
----
+HTML • CSS • JavaScript
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+**Tools & Platforms**
+
+Git • GitHub • VS Code • MySQL
 
 ---
 
-## 🔥 Streak Stats
-![Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)
+## 📌 Featured Projects
+
+### Student Management System
+
+A web-based application for managing student records efficiently using HTML, CSS, and JavaScript.
+
+### Quiz Game
+
+An interactive quiz platform featuring multiple categories, score tracking, and dynamic navigation.
+
+### Mini AI Wisdom Bot
+
+An AI-powered application that provides solutions to real-life problems using stories and teachings from the Ramayana and Mahabharata.
 
 ---
 
-## 🌟 Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: abhiramreddypasham2005@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🐙 GitHub: https://github.com/yourusername  
+## 🎯 Current Goals
+
+* Master Data Structures & Algorithms
+* Build Full Stack Projects
+* Learn Machine Learning
+* Contribute to Open Source
+* Secure a Software Development Internship
 
 ---
 
-⭐️ If you like my work, give a star to my repositories!
+### Connect With Me
+
+* GitHub: https://github.com/pashamabhiramreddy
+* LinkedIn: https://linkedin.com/in/abhi-ram-reddy-0a35b7347
+* Email: [abhiramreddypasham2005@gmail.com](mailto:abhiramreddypasham2005@gmail.com)
