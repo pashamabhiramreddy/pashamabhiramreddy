@@ -53,7 +53,7 @@ An AI-powered application that provides solutions to real-life problems using st
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pashamabhiramreddy\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pashamabhiramreddy\&layout=compact)
 
 ---
 
